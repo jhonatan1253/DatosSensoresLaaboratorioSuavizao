@@ -158,7 +158,9 @@ sensor=[
 637,
 784,
 ]
+
 #Datos sensor flexible
+
 sensor=[
 0,
 0,
@@ -304,6 +306,7 @@ sensor=[
 ]
 
 Datos sensor fuerza
+
 sensor=[
 1.5,
 1.52,
@@ -460,7 +463,9 @@ sensor=[
 1.54,
 1.38,
 ]
+
 #DATOS SENSOR PRESION
+
 sensor=[
 206,
 207,
@@ -778,10 +783,9 @@ sensor=[
 0,
 0,
 0,
-
-
 ]
 #datos sensor ultrasonido
+
 sensor=[
 19,
 18,
@@ -910,7 +914,6 @@ sensor=[
 22,
 18,
 8,
-16,
 15,
 14,
 14,
